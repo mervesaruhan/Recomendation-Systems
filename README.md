@@ -1,0 +1,1 @@
+It contains films along with the rating scores given to these films. It includes 2,000,0263 ratings across 27,278 films. Using this dataset, 10 film recommendations were made for the user with the given ID by applying item-based and user-based recommender methods.

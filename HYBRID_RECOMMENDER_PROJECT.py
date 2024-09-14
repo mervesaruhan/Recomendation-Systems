@@ -231,7 +231,5 @@ movies_from_item_based = item_based_recommender(movie[movie["movieId"] == movie_
 
 movies_from_item_based[1:6].index.to_list()
 
-***************NOTLAR******************************
-#burada verileri birleştirmede merge yaparken verilerin sayısı fazla cıktı. movie
-# ıdlerden fazla geleler var nangeliyor.rain kısımları. bu durumu çözmek gerekecek. rate edilmemiş 534 adet film varmıs
+
 #
